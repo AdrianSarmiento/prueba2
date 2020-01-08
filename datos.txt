@@ -11,3 +11,4 @@ informacion de la base de datos
 phpinfo();
 ?>
 >>>>>>> Desarrollo
+Volver a subir este cambio
