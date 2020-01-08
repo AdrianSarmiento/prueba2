@@ -1,15 +1,14 @@
-<<<<<<< HEAD
+HEAD
 informacion de la base de 
 <html>
 <h1>
 hola mundo
 </h1>
 </html>
-=======
 informacion de la base de datos
 <?php
 phpinfo();
-?>
->>>>>>> Desarrollo
+?>}
+Desarrollo
 Volver a subir este cambio
 Volver a subir cambio 3
