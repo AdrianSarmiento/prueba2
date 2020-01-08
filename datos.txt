@@ -2,3 +2,4 @@ informacion de la base de datos
 <?php
 phpinfo();
 ?>
+Volver a subir este cambio
